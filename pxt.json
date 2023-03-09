@@ -6,8 +6,7 @@
     },
     "files": [
         "assets.json",
-        "images.g.jres",
-        "images.g.ts"
+        "images.g.jres"
     ],
     "testFiles": [
         "test.ts"
